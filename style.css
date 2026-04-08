@@ -743,6 +743,7 @@ body,h3,p{
     }
     .icon {
         margin-right: 30px;
+        margin-top:30px ;
     }
     .head-text {
         font-size: 56px;
@@ -864,6 +865,7 @@ body,h3,p{
         margin: 10px auto 0;
         display: block;
         margin-right: 20px;
+        margin-top: -260px !important;
     }
     .head-text {
         font-size: 40px;
